@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<workspace>
+  <Name>Example1</Name>
+  <Des>This is example network of 3 trains.</Des>
+  <Resource>Res.csv</Resource>
+  <Product>Pro.csv</Product>
+  <Route>Path.csv</Route>
+  <Market>Mar.csv</Market>
+  <Dyn>Dyn.csv</Dyn> 
+  <StartDate>2017-5-15 09:07:12</StartDate>
+  <EndDate>2017-5-16 09:57:12</EndDate>
+</workspace>

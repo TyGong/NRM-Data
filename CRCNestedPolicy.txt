@@ -1,0 +1,5 @@
+[OpenAllTime=2017/5/15 14:37]
+Allocate;Train1;0;-1;-1;1,2,3,4,5,6,7,8,9,10
+Allocate;Train1;1;0;20;5,8
+Allocate;Train1;2;21;29;2,3,4,6,7,9
+Merge;Train1;1;2;2017/5/15 12:00

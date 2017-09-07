@@ -1,0 +1,11 @@
+ID,Des,Res,Fare,
+1,Train1:A->B,1,100,
+2,Train1:A->C,1;2,200,
+3,Train1:A->D,1;2;3,300,
+4,Train1:A->E,1;2;3;4,400,400
+5,Train1:B->C,2,100,
+6,Train1:B->D,2;3,200,
+7,Train1:B->E,2;3;4,300,
+8,Train1:C->D,3,100,
+9,Train1:C->E,3;4,200,
+10,Train1:D->E,4,100,
