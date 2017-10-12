@@ -1,0 +1,50 @@
+Allocate;Train1;1;47;Pairs
+Allocate;Train1;2;0;Brussels
+Allocate;Train1;3;3;Rotterdam
+Allocate;Train1;4;0;Schiphol
+OpenTime;Train1;2017/2/1 0:00:00
+Allocate;Train2;1;50;Pairs
+Allocate;Train2;2;0;Brussels
+Allocate;Train2;3;0;Rotterdam
+Allocate;Train2;4;0;Schiphol
+OpenTime;Train2;2017/2/1 0:00:00
+Allocate;Train3;1;37;Pairs
+Allocate;Train3;2;2;Brussels
+Allocate;Train3;3;11;Rotterdam
+Allocate;Train3;4;0;Schiphol
+OpenTime;Train3;2017/2/1 0:00:00
+Allocate;Train4;1;44;Pairs
+Allocate;Train4;2;6;Brussels
+Allocate;Train4;3;0;Rotterdam
+Allocate;Train4;4;0;Schiphol
+OpenTime;Train4;2017/2/1 0:00:00
+Allocate;Train5;1;42;Pairs
+Allocate;Train5;2;8;Brussels
+Allocate;Train5;3;0;Rotterdam
+Allocate;Train5;4;0;Schiphol
+OpenTime;Train5;2017/2/1 0:00:00
+Allocate;Train6;1;41;Pairs
+Allocate;Train6;2;9;Brussels
+Allocate;Train6;3;0;Rotterdam
+Allocate;Train6;4;0;Schiphol
+OpenTime;Train6;2017/2/1 0:00:00
+Allocate;Train7;1;47;Pairs
+Allocate;Train7;2;3;Brussels
+Allocate;Train7;3;0;Rotterdam
+Allocate;Train7;4;0;Schiphol
+OpenTime;Train7;2017/2/1 0:00:00
+Allocate;Train8;1;47;Pairs
+Allocate;Train8;2;3;Brussels
+Allocate;Train8;3;0;Rotterdam
+Allocate;Train8;4;0;Schiphol
+OpenTime;Train8;2017/2/1 0:00:00
+Allocate;Train9;1;48;Pairs
+Allocate;Train9;2;0;Brussels
+Allocate;Train9;3;2;Rotterdam
+Allocate;Train9;4;0;Schiphol
+OpenTime;Train9;2017/2/1 0:00:00
+Allocate;Train10;1;49;Pairs
+Allocate;Train10;2;0;Brussels
+Allocate;Train10;3;1;Rotterdam
+Allocate;Train10;4;0;Schiphol
+OpenTime;Train10;2017/2/1 0:00:00
